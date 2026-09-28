@@ -1,5 +1,5 @@
 
-/* General Styling */
+
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +14,7 @@ body {
     padding: 20px;
 }
 
-/* Main Heading */
+
 center:first-of-type {
     background-color: #102a43;
     color: white;
@@ -35,7 +35,7 @@ h3 {
     margin-bottom: 15px;
 }
 
-/* Horizontal Lines */
+
 hr {
     border: none;
     height: 2px;
@@ -61,7 +61,7 @@ a:hover {
     transform: translateY(-2px);
 }
 
-/* Main Content */
+
 body > h2 {
     color: #102a43;
     font-size: 24px;
@@ -97,7 +97,7 @@ ul li::marker {
     color: #3e92cc;
 }
 
-/* Faculty Table */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -130,7 +130,7 @@ tr:hover {
     background-color: #d9eaf7;
 }
 
-/* Important Notice */
+
 ol {
     background-color: #fffbea;
     padding: 20px 20px 20px 45px;
